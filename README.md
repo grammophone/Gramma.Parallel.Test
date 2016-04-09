@@ -1,2 +1,2 @@
-# Gramma.Parallel.Test
-This is a unit test for the [Gramma.Parallel](https://github.com/grammophone/Gramma.Parallel) library.
+# Grammophone.Parallel.Test
+This is a unit test for the [Grammophone.Parallel](https://github.com/grammophone/Grammophone.Parallel) library.

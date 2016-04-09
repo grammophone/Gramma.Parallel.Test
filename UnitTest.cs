@@ -3,9 +3,9 @@ using System.Text;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Gramma.Parallel;
+using Grammophone.Parallel;
 
-namespace Gramma.Parallel.Test
+namespace Grammophone.Parallel.Test
 {
 	/// <summary>
 	/// Summary description for UnitTest1

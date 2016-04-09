@@ -9,8 +9,8 @@
     <ProjectGuid>{4B499C03-E06F-48DC-A990-F7F5BAA38A1A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Gramma.Parallel.Test</RootNamespace>
-    <AssemblyName>Gramma.Parallel.Test</AssemblyName>
+    <RootNamespace>Grammophone.Parallel.Test</RootNamespace>
+    <AssemblyName>Grammophone.Parallel.Test</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -52,9 +52,9 @@
     <Compile Include="UnitTest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Gramma.Parallel\Gramma.Parallel.csproj">
+    <ProjectReference Include="..\Grammophone.Parallel\Grammophone.Parallel.csproj">
       <Project>{7A32CFF6-1268-4CFB-BEE4-3F94DCC83028}</Project>
-      <Name>Gramma.Parallel</Name>
+      <Name>Grammophone.Parallel</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
